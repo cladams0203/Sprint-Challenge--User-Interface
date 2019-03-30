@@ -173,10 +173,9 @@ header nav a {
 #box10 {
     background-color: dodgerblue;
 }
-.top-about {
+.top-bottom-about {
     margin: 20px;
-    padding-bottom: 20px;
-    border-bottom: 1px dashed black;
+    padding-bottom: 10px;
 }
 
 .middle-section {
@@ -184,6 +183,8 @@ header nav a {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
+    border-top: 1px dashed black;
+    padding: 10px 0;
 }
 
 .middle-div {
